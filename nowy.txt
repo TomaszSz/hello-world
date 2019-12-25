@@ -1,3 +1,5 @@
-No to ten plik wrzucany z druga gałęźą
+No to ten plik (zwykły txt) wrzucany z druga gałęźą
 
 A to jest już zmiana zrobiona na lokalnym laptopie.
+
+Druga zmiana na laptopie. Nowa linia. Ale też zmieniam tym razem pierwszą linię.
