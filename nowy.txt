@@ -1,5 +1,3 @@
 No to ten plik (zwykły txt) wrzucany z druga gałęźą
 
-A to jest już zmiana zrobiona na lokalnym laptopie.
-
-Druga zmiana na laptopie. Nowa linia. Ale też zmieniam tym razem pierwszą linię.
+Podczas kolejnego commit na laptopie zmieniłem ten plik. Tym razem używając też brancha naprawdę.
