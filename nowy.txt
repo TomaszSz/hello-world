@@ -1,5 +1,7 @@
 No to ten plik (zwykły txt) wrzucany z druga gałęźą
 
+Zmiana na branchu (1) z laptopa.
+
 A to jest już zmiana zrobiona na lokalnym laptopie.
 
 Druga zmiana na laptopie. Nowa linia. Ale też zmieniam tym razem pierwszą linię.
